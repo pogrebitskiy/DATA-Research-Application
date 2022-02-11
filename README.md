@@ -5,5 +5,6 @@ The given data file is lab_assignment.csv within the 'Data_Files' folder. All ot
 
 The final .py code file is in the 'Code' folder. To run the .py files, all of the data files must be in the same directory/folder on your local system as the .py file.
 
+David_Pogrebitskiy_one-Page_explanation.pdf is the file where I detail how it approached and then completed this assignment. 
 
 Updated 02/11/2022
